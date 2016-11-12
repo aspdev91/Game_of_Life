@@ -1,5 +1,3 @@
-# Game of Life in JS
+Game of Life in Javascript
 
-Fullstack Academy workshop.
-
-# Game_of_Life
+Demo: https://jsfiddle.net/qd5sxvg4/
